@@ -5,6 +5,10 @@ The game ends when the player makes ‘n’ wrong moves where n is defined as th
 The game has an option to continue to another game or end it.
 It takes care of the wrong entries by the user. 
 
+Libraries used:
+- Random
+This is a library which allows to generate numbers in random.
+
 To Run:
 python3 hangman.py
 
